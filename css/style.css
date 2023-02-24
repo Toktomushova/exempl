@@ -40,11 +40,11 @@ p{
 }
 
 button{
-    width: 200px;
-    height: 100px;
+    width: 300px;
+    height: 150px;
     color: aliceblue;
     background-color: rgb(172, 79, 172);
-    font-weight: 400;
+    font-weight: 700;
     font-size: 25px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
