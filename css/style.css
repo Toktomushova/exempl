@@ -13,7 +13,7 @@
 .content{
     width: 80vw;
 
-    background-color: rgb(57, 121, 100);
+    background-color: rgb(52, 37, 52);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -34,7 +34,7 @@ p{
     height: 350px;
     font-size: 30px;
     line-height: 25px;
-    color: rgb(121, 161, 162);
+    color: rgb(133, 40, 93);
     text-align: center;
     margin-top: 70px;
 }
@@ -43,7 +43,7 @@ button{
     width: 200px;
     height: 100px;
     color: aliceblue;
-    background-color: rgb(108, 220, 183);
+    background-color: rgb(172, 79, 172);
     font-weight: 400;
     font-size: 25px;
     margin-bottom: 50px;
